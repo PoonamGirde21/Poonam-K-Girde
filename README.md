@@ -1,1 +1,1 @@
-# Poonam-K-Girde
+Hi! I'm Poonam k Girde, a passionate and dedicated Python developer with a strong interest in creating applications using Tkinter for GUI and MySQL for database management. I enjoy building real-world projects like food ordering systems, Student registration form , library management systems and manymore, to improve user experience and solve practical problems.
